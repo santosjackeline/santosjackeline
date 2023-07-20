@@ -2,7 +2,7 @@ Oi meu nome é Jackeline, tenho 24 anos, atualmente estou cursando o curso de En
 Sempre amei a área da Tecnologia, mas sempre tive medo de entrar nela, pela minha dificuldade em matemática, mas esse ano pela dificuldade em arrumar emprego na área da saúde decidi migrar de carreira e expandir meus horizontes, e estou adorando desde então. 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/santosjackeline/)
-[![Discord](https://img.shields.io/badge/Discord-ec63a1?style=for-the-badge&logo=discord&logoColor=fff)](https://www.discord.com/in/santosjackeline/)
+[![Discord](https://img.shields.io/badge/Discord-ec63a1?style=for-the-badge&logo=discord&logoColor=fff)](https://www.discord.com/)
 
 ## Habilidades
 ![Python](https://img.shields.io/badge/Python-ec63a1?style=for-the-badge&logo=python&logoColor=fff)
