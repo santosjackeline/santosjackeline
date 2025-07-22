@@ -1,6 +1,6 @@
 # ✨ Jackeline N. Santos
 
-Oi! Meu nome é **Jackeline**, tenho 24 anos e sou apaixonada por tecnologia.  
+Oi! Meu nome é **Jackeline**, tenho 26 anos e sou apaixonada por tecnologia.  
 Atualmente, estou cursando **Engenharia de Software** e em processo de transição de carreira.  
 Minha formação original é em **Enfermagem**, com **Pós-graduações em Urgência e Emergência**, **Enfermagem do Trabalho** e **Gestão e Planejamento em Saúde**.
 
